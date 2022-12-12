@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Vote Button
+  - Player Counter
+  - Vote Text
+  - Vote Hud
+  - Game Hud
+  - Turn Text
+  - Lives Text
+  - Cube
+  - End Hud
+  - Winner Text
+  - Tutorial Panel
+  - Tutorial Text
+  - Level List
+  - Server Master
+  - Previous Map
+  - Next Map
+  - Exit Button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Obstacle
+  - Cube
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
