@@ -12,6 +12,9 @@ There's a tutorial in the game when you play for the first time (also explained 
 
 Audio is not in uploaded to the repo due to licensing issues, but it's available in the executable.
 
+## Short video showcase
+https://youtu.be/CM3WBmCIb6E
+
 ## Download?
 There's a Builds folder in this repo, that has an executable.
 
